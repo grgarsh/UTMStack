@@ -74,7 +74,7 @@
         <properties-maven-plugin.version>1.0.0</properties-maven-plugin.version>
         <sonar-maven-plugin.version>3.9.0.2155</sonar-maven-plugin.version>
         <!-- jhipster-needle-maven-property -->
-        <io.grpc.version>1.67.1</io.grpc.version>
+        <io.grpc.version>1.75.0</io.grpc.version>
         <protoc.version>4.29.3</protoc.version>
         <os-maven-plugin.version>1.6.2</os-maven-plugin.version>
         <protobuf-maven-plugin.version>0.6.1</protobuf-maven-plugin.version>
@@ -220,7 +220,7 @@
         <dependency>
             <groupId>org.elasticsearch.client</groupId>
             <artifactId>elasticsearch-rest-high-level-client</artifactId>
-            <version>7.13.3</version>
+            <version>7.13.4</version>
         </dependency>
         <dependency>
             <groupId>org.zalando</groupId>
@@ -273,12 +273,12 @@
         <dependency>
             <groupId>org.xhtmlrenderer</groupId>
             <artifactId>flying-saucer-pdf</artifactId>
-            <version>9.2.0</version>
+            <version>9.4.0</version>
         </dependency>
         <dependency>
             <groupId>org.springdoc</groupId>
             <artifactId>springdoc-openapi-ui</artifactId>
-            <version>1.7.0</version>
+            <version>1.8.0</version>
         </dependency>
         <dependency>
             <groupId>com.utmstack</groupId>
@@ -293,7 +293,7 @@
         <dependency>
             <groupId>com.squareup.okhttp3</groupId>
             <artifactId>okhttp</artifactId>
-            <version>4.12.0</version>
+            <version>5.0.0</version>
         </dependency>
 
         <!--        gRPC implementation-->
